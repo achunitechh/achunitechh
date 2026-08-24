@@ -34,7 +34,8 @@
 
 **[ARKAI — 長照智慧評估決策系統](https://878.wkbarret.com/)**
 - 以 Docker Compose 建置 PostgreSQL 資料庫與 Linux 環境
-- 搭配 FastAPI 開發後端，串接護理紀錄、生理數值與活動紀錄，解決長照機構資料分散、人工彙整曠日費時的痛點。原本需數天完成的電子聯絡簿彙整，縮短至數分鐘自動生成，大幅提升作業效率
+- 搭配 FastAPI 開發後端，串接護理紀錄、生理數值與活動紀錄，解決長照機構資料分散、人工彙整曠日費時的痛點
+- 利用 Python 打造自動化工具，並整合 GitLab CI／ArgoCD Pipeline，縮短部署時間並實現零停機部署，大幅提升作業效率
 
 ---
 
@@ -62,5 +63,5 @@
 
 ### More about me
 
-- 🔗 CV／專案經歷：[Cake Resume](https://www.cake.me/achunitechhdevops)
-- 🌐 作品集網站：[achunitechh.github.io](https://achunitechh.github.io)
+- CV／專案經歷：[Cake Resume](https://www.cake.me/achunitechhdevops)
+- 作品集：[achunitechh.github.io](https://achunitechh.github.io)
