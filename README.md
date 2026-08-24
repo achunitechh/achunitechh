@@ -57,11 +57,10 @@
 
 - 雲端資安養成班 — 部署初始化時間縮短 **40%**
 - 雲端資安養成班 — 雲端頻寬流量成本降低 **35%**
-- 女裝服飾零售 — 帶動業務銷售額成長 **1.23 倍**
 
 ---
 
 #### 📫 More about me
 
-🔗 CV／專案經歷：[Cake Resume](https://www.cake.me/achunitechhdevops)
-🌐 作品集網站：[achunitechh.github.io](https://achunitechh.github.io)
+- 🔗 CV／專案經歷：[Cake Resume](https://www.cake.me/achunitechhdevops)
+- 🌐 作品集網站：[achunitechh.github.io](https://achunitechh.github.io)
