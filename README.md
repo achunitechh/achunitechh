@@ -60,7 +60,7 @@
 
 ---
 
-#### 📫 More about me
+### More about me
 
 - 🔗 CV／專案經歷：[Cake Resume](https://www.cake.me/achunitechhdevops)
 - 🌐 作品集網站：[achunitechh.github.io](https://achunitechh.github.io)
