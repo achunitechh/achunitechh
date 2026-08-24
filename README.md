@@ -1,6 +1,6 @@
 ### 👋 SHAOHSUAN-CHANG．張少瑄
 
-** 🤖 DevOps Engineer**
+** 🤖 DevOps Engineer **
 
 從「使用系統」到「打造系統」。四年數據分析與專案開發背景，投入 530 小時密集雲端資安訓練，銜接產品、客戶與工程團隊。
 
@@ -32,7 +32,7 @@
 
 #### 🚀 Featured Project
 
-**ARKAI — 長照智慧評估決策系統**
+**[ARKAI — 長照智慧評估決策系統](https://878.wkbarret.com/)**
 用 Docker Compose 建置 PostgreSQL 資料庫與 Linux 環境，搭配 FastAPI 開發後端，將原本需數天的人工彙整流程，縮短至數分鐘自動生成。
 
 ---
